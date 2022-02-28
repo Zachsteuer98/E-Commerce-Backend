@@ -26,7 +26,7 @@ Install the required packages and run <npm start>, then run the server in your b
 ## Features
 MYSQL2 Database
 
-##Screencastify Link Video
+## Screencastify Link Video
 https://drive.google.com/file/d/1yAj7VdDoZNyKIn6ozq0kToOhA-t7T81-/view  
   
 ## Contributors
